@@ -1,4 +1,4 @@
-# networkpoison
+# network_poisoner
 
 The network_degree_modifier.py script contains all the functions and code needed, it defines the network modification.
 The network_runner.py script uses the tools created in network_degree_modifier.py and executes the modification.
