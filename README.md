@@ -13,7 +13,7 @@ So your workflow should be:
   
   network_runner.py 
   
-3. Change the input_file in network_runner.py to the network file name
-4. Change the output_file in network_runner.py to the your chosen modified network name
-5. You can optioanlly change degree_change=1.2 in network_runner.py if you want more or less modification (1.2 = +20%, 0.8 = -20%, etc.)
-6. Run: python3 network_runner.py  in bash
+2. Change the input_file in network_runner.py to the network file name
+3. Change the output_file in network_runner.py to the your chosen modified network name
+4. You can optioanlly change degree_change=1.2 in network_runner.py if you want more or less modification (1.2 = +20%, 0.8 = -20%, etc.)
+5. Run: python3 network_runner.py  in bash
